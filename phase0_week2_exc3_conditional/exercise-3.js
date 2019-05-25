@@ -1,4 +1,4 @@
-var nama = "";
+var nama = "Vegeta";
 var peran ="Ksatria";
 // Peran Ksatria, Penyihir atau Tabib
 if(nama !== ""){
